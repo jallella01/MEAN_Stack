@@ -27,4 +27,17 @@ As a result, our primary goal is <b>to promote Indian culture and tradition</b>,
 The website is developed using HTML, CSS, and Javascript. Google My Maps has been used to create a location picker that locates top heritage sites in India.
 The website is also responsive and can be viewed on different devices.
 
+# Implementation
+Welcome to our website <b>"Indian Culture"!</b> This is the homepage of the website which shows the logo of the website, navigation bar, and brief introduction of the website. 
+The <b>"Read More"</b> button redirects the user to the official website of Indian Culture by The Government of India.
 
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/72097687/174475134-c166404b-528f-4080-be92-3cb253d071f7.png">
+
+<b>One of the best features of our website is that it lets the user view, locate and learn about the top 10 heritage sites of India at one place.</b>
+For this, we have used the "Google My Maps" feature that locates to the various heritage sites in terms of their geographical location. On clicking on any of the pointers, the user can know it's location and read about its rich history and culture and appreciate the diversity!
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/72097687/174475490-c74a4c63-e0b1-490d-ace5-77debb17f401.png">
+
+Every state and city in India has it's own speciality. This section shows the Great cities of India and what are they famous for.
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/72097687/174476043-1e8bd01b-8d89-42e4-a41d-fa33756774ff.png">
